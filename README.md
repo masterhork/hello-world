@@ -1,2 +1,5 @@
 # hello-world
-content for penguins ^_^
+
+Hi Humans!
+
+I'm gonna to learn programming here!
